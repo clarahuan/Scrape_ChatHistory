@@ -1,0 +1,8 @@
+[
+  {"conversation_id":"friend_001","conversation":"张三（示例）","sender":"我","timestamp":"2026-10-18 09:00:00","type":"text","content":"你好，明天下午三点讨论方案可以吗？"},
+  {"conversation_id":"friend_001","conversation":"张三（示例）","sender":"张三","timestamp":"2026-10-18 09:01:00","type":"text","content":"可以，我会提前准备材料。"},
+  {"conversation_id":"group_001","conversation":"项目讨论群（示例）","sender":"李四","timestamp":"2026-10-19 10:00:00","type":"text","content":"这是第一版方案。\n请大家查看后提出意见。"},
+  {"conversation_id":"group_001","conversation":"项目讨论群（示例）","sender":"李四","timestamp":"2026-10-19 10:01:00","type":"image","content":"方案截图（示例，仅说明，未提供图片）"},
+  {"conversation_id":"friend_001","conversation":"张三（示例）","sender":"我","timestamp":"2026-10-20 23:59:59","type":"text","content":"方案已经确认，谢谢！"},
+  {"conversation_id":"group_001","conversation":"项目讨论群（示例）","sender":"我","timestamp":"2026-10-21 00:00:00","type":"text","content":"这是次日的消息，用于检查日期边界。"}
+]
